@@ -1,2 +1,0 @@
-# ProjectMarvin
-Marvin - The Quiz
